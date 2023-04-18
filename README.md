@@ -1,4 +1,6 @@
 # DOOOPE Keyboard
-![DOOOPE Keyboard PCB art](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![DOOOPE Keyboard PCB art](images\background-image.jpg)
 ---
 DOOOPE Keyboard is a 34-key wireless split keyboard.
+
+# LAYOUT
