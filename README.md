@@ -1,7 +1,7 @@
 # DOOOPE Keyboard
 ![DOOOPE Keyboard PCB art](images/background-image.jpg)
 ---
-DOOOPE Keyboard is a 34-key wireless split keyboard.
+DOOOPE Keyboard is a 34-key wireless split keyboard. That uses Redragon low profile switches hence the name that rhymes with dupe.
 
 # LAYOUT
 insert image
