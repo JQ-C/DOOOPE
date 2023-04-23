@@ -1,5 +1,5 @@
 # DOOOPE Keyboard
-![DOOOPE Keyboard PCB art](images\background-image.jpg)
+![DOOOPE Keyboard PCB art](images/background-image.jpg)
 ---
 DOOOPE Keyboard is a 34-key wireless split keyboard.
 
@@ -24,7 +24,12 @@ The build guide for the DOOOPE keyboard can be found [here]()
 # Project Reason
 - DOOOPE keyboard was created to use Redragon low profile switch as a cheap alternative to the Low profile choc switches used in many Low-pro boards, hence the name "DOOOPE" that sounds like dupe.
 - Another decision is to use off the shelf components and the cheapest at the category.
-- This keyboard also used [Ergogen V4]() to prototype the layout and later finished in Kicad. 
+- This keyboard also used [Ergogen V4]() to prototype the layout and later finished in Kicad.
+
+# Future Revision / To-Do
+- Make it a reversible PCB to reduce cost
+- Add support for both MX and Redragon Switch
+ 
 # Credits
 1. Overall inspiration is the execellent keyboard [Totem by GEIST](https://github.com/GEIGEIGEIST/TOTEM)
 2. The exposed copper art is inspired by [Urchin by Kyek](https://github.com/duckyb/urchin)
