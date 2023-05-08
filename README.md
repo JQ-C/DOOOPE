@@ -2,7 +2,7 @@
 DOOOPE Keyboard is a 34-key wireless split keyboard. That uses Redragon low profile switches.
 
 # PCB
-[Here](JQ-C/DOOOPE/PCB) you can find the Kicad Files that includes the schematics
+[Here](JQ-C/DOOOPE/DOOOPE-R2) you can find the Kicad Files that includes the schematics
 
 # Bill of Material
 |Component|Amount|Remarks|Link|
