@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "KBLib")(type "KiCad")(uri "${KIPRJMOD}/KBLib")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "C:/Users/Jiaqi/OneDrive - Taylor's Education/Documents/Keyboard/lib/kbd-master/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "kleeb-master")(type "KiCad")(uri "C:/Users/Jiaqi/OneDrive - Taylor's Education/Documents/Keyboard/lib/kleeb-master")(options "")(descr ""))
+  (lib (name "TOTEMlib")(type "KiCad")(uri "C:/Users/Jiaqi/OneDrive - Taylor's Education/Documents/Keyboard/TOTEM-main/PCB/totem_0-3/TOTEMlib.pretty")(options "")(descr ""))
+  (lib (name "Seeed-Studio-XIAO-nRF52840-footprint-eagle")(type "Eagle")(uri "C:/Users/Jiaqi/Downloads/Seeed-Studio-XIAO-nRF52840-footprint-eagle.lbr")(options "")(descr ""))
+  (lib (name "fingerpunch-master")(type "KiCad")(uri "C:/Users/Jiaqi/OneDrive - Taylor's Education/Documents/Keyboard/fingerpunch-master/kicad/fingerpunch.pretty")(options "")(descr ""))
+)
