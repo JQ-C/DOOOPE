@@ -1,0 +1,2 @@
+# DOOOPE Revision 1
+Revision 1 is a non-reversible design as it is much easier to route and don't involve any jumpers for the Xiao BLE. However revision 1 was never send to a PCB fabrication and revision 2 was created. If you for some reason choose to use Revision 1 and send it to be fabricated take note that it is untested and I am not responsible or liable for anything that happens from this.
