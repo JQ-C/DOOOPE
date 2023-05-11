@@ -1,4 +1,5 @@
 # DOOOPE. Real or Fake?
+![pcb svg](images/drawing.png)
 DOOOPE Keyboard is a 34-key wireless split keyboard. That uses Redragon low profile switches.
 
 ## Design Philosophy
@@ -11,7 +12,9 @@ DOOOPE was created with these in mind
 - 34 keys
 
 # Resources
-[Here](DOOOPE) you can find the Kicad files. <br>
+
+[Here](Kicad) you can find the Kicad files. 
+<br>
 [ZMK Config](https://github.com/JQ-C/zmk-config) for the DOOOPE using Xiao BLe
 
 # Bill of Material
