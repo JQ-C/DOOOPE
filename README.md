@@ -1,8 +1,18 @@
-# DOOOPE Keyboard
+# DOOOPE. Real or Fake?
 DOOOPE Keyboard is a 34-key wireless split keyboard. That uses Redragon low profile switches.
 
-# PCB
-[Here](DOOOPE-R2) you can find the Kicad Files that includes the schematics
+## Design Philosophy
+DOOOPE was created with these in mind
+- Budget at each category (MCU, Switch, Keycaps)
+- Modular & Reusable parts
+- Low Cost
+- Low Profile
+- Wireless
+- 34 keys
+
+# Resources
+[Here](DOOOPE) you can find the Kicad files. <br>
+[ZMK Config](https://github.com/JQ-C/zmk-config) for the DOOOPE using Xiao BLe
 
 # Bill of Material
 The link provided will be actual store i bought from but not affiliated with.
@@ -24,16 +34,23 @@ The link provided will be actual store i bought from but not affiliated with.
 Coming soon <br>
 The build guide for the DOOOPE keyboard can be found [here]()
 
-# Firmware
-[ZMK Config](https://github.com/JQ-C/zmk-config) for the DOOOPE using Xiao BLe
-
 # Project Reason
 - DOOOPE keyboard was created to use Redragon low profile switch as a cheap alternative to the Low profile choc switches used in many Low-pro boards, hence the name "DOOOPE" that sounds like dupe.
 - Another decision is to use off the shelf components and the cheapest at each category.
 - This keyboard also used [Ergogen V4]() to prototype the layout and later finished in Kicad.
 
-# Credits
+# Credits & Learning Resources
+
+## Credits
 1. Overall inspiration is the execellent keyboard [Totem by GEIST](https://github.com/GEIGEIGEIST/TOTEM)
 2. The exposed copper art is inspired by [Urchin by Kyek](https://github.com/duckyb/urchin)
 3. The special "negative silkscreen" and overall silkscreen style by [Dilemma by bastardkb](https://github.com/Bastardkb/Dilemma)
-4. I also want to thank the very helpful people in the [FingerPunch Discord]() that help guide me with the PCB creation.
+4. Pogo pin footprint from [Tlalocohyla Smithii by LuarRaNa](https://github.com/LuarRaNa/tlalocohyla_smithii)
+5. Switch and much more footprint from [FingerPunch by SadekBaroudi](https://github.com/sadekbaroudi/fingerpunch)
+
+I also want to thank the very helpful people in the [FingerPunch Discord]() that help guide me with the PCB creation.
+
+## Learning Resources
+The execellent [Ergogen Guide](https://web.archive.org/web/20230508055048/https://flatfootfox.com/ergogen-introduction/) by @FlatFootFox from the [Ergogen Discord](http://discord.ergogen.xyz/). Fall into the rabbit hole now with [Ergogen WebUI](https://ergogen.cache.works/). <br>
+
+Great Non-keyboard Kicad Guide to get comfortable with the tool [STM32 PCB Design by Phils Lab](https://www.youtube.com/watch?v=aVUqaB0IMh4).
